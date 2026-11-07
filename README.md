@@ -83,6 +83,13 @@ Scripts print their numbers to standard output, except the figure scripts, which
 
 `practice/subscription_judge.py` asks Claude models through the Claude command-line interface, and `practice/openrouter_judge.py` asks other models through OpenRouter with a pinned provider, reading the OpenRouter key from a local file outside the repository (`KEY_FILE` in the script) without printing it. Model outputs vary between calls, so new forecasts will differ slightly from the ones in `runs/`.
 
+## Run details not in the report
+
+- **Forecast sources.** Claude forecasts came mostly from the Claude command-line interface and otherwise from the API (the first validation proxy's targets, the thinking summaries and BLE). When the interface returned nothing from the requested model it answered with an earlier model of the same line (Opus 4.8 or Opus 5, Sonnet 5): 1.7% of Opus's and 1.2% of Sonnet's calibration-set forecasts, and 0.8% of Opus's proxy forecasts. One refusal among the first validation proxy's remaining acquisition candidates was set to 0.575.
+- **OpenRouter providers.** DeepInfra for DeepSeek V4.1 Flash, GMI Cloud for GLM-5.3 Flash and Baidu for GLM-5.3 (all fp8), and OpenAI for the GPT models (flex tier for GPT-6.1 Sol and Terra). GLM-5.3 Flash gave no answer within 24,000 tokens for 2% of held-out items, which fall back to 0.575.
+- **Outcome-only IRT model.** Fitted values: mu = 0.28, standard deviations 1.67 for benchmarks, 0.73 for subjects within a benchmark and 1.22 for items (`runs/irt-baseline/params.json`).
+- **Submitted predictor, live checks.** A live run on 24 predictions of the first validation proxy (budgets 15 and 31) took at most 7 seconds per call. On its biology benchmark Opus refused 20 of 40 requests, and the second request recovered the target in half of the calls whose first request was refused. The formative run's API calls cost $56. A single API forecast from Opus costs about $0.010.
+
 ## Run the submitted predictor
 
 Copy `submission/submission_config.example.json` to `submission/submission_config.json`, put an Anthropic API key in it, and package `submission/` as the competition's starting kit describes. That file is listed in `.gitignore` so the key is not committed.
