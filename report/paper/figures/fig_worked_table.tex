@@ -1,0 +1,23 @@
+\begin{tabular}{@{}lccccc@{}}
+    \toprule
+    & & \multicolumn{3}{c}{Prediction at budget} & \\
+    \cmidrule(lr){3-5}
+    Item: domain, request & Forecast & 1 & 7 & 31 & Outcome \\
+    \midrule
+    \multicolumn{6}{@{}l}{\emph{GPT-4.1 mini, five of its 59 scored items}} \\
+    airline: ``You want to cancel\ldots'' & \shs{better}{0.75}{0}{1} 0.75 & \shs{better}{0.79}{0}{1} 0.79 & \shs{better}{0.93}{0}{1} 0.93 & \shs{better}{0.93}{0}{1} 0.93 & 4 of 4 \\
+    retail: ``You want to return the\ldots'' & \shs{better}{0.35}{0}{1} 0.35 & \shs{better}{0.51}{0}{1} 0.51 & \shs{better}{0.80}{0}{1} 0.80 & \shs{better}{0.78}{0}{1} 0.78 & 4 of 4 \\
+    airline: ``You want to first cancel\ldots'' & \shs{better}{0.25}{0}{1} 0.25 & \shs{better}{0.41}{0}{1} 0.41 & \shs{better}{0.73}{0}{1} 0.73 & \shs{better}{0.71}{0}{1} 0.71 & 0 of 4 \\
+    telecom: ``You mobile data is not\ldots'' & \shs{better}{0.12}{0}{1} 0.12 & \shs{better}{0.26}{0}{1} 0.26 & \shs{better}{0.57}{0}{1} 0.57 & \shs{better}{0.54}{0}{1} 0.54 & 2 of 4 \\
+    telecom: ``You are unable to send\ldots'' & \shs{better}{0.05}{0}{1} 0.05 & \shs{better}{0.15}{0}{1} 0.15 & \shs{better}{0.38}{0}{1} 0.38 & \shs{better}{0.35}{0}{1} 0.35 & 0 of 4 \\
+    Beta-binomial baseline, every item & & \shs{better}{0.53}{0}{1} 0.53 & \shs{better}{0.79}{0}{1} 0.79 & \shs{better}{0.70}{0}{1} 0.70 & \\
+    \midrule
+    \multicolumn{6}{@{}l}{\emph{Update from both subjects' revealed outcomes}} \\
+    Successes revealed, GPT-4.1 mini & & 0 of 1 & 6 of 7 & 22 of 31 & \\
+    Successes revealed, o4-mini & & 1 of 1 & 5 of 7 & 21 of 31 & \\
+    $u_B$ (benchmark) & $0$ & $+0.63$ & $+1.78$ & $+1.59$ & \\
+    $\beta_B$ (slope) & $0$ & $-0.05$ & $-0.13$ & $-0.15$ & \\
+    $v_{sB}$, GPT-4.1 mini & $0$ & $-0.02$ & $+0.24$ & $+0.26$ & \\
+    $v_{sB}$, o4-mini & $0$ & $+0.13$ & $+0.08$ & $+0.03$ & \\
+    \bottomrule
+\end{tabular}

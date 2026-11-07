@@ -1,0 +1,18 @@
+# data and everything built from it (benchmark items stay out of this repository)
+data/
+exams/
+agent_box_02/
+# local secrets
+submission/submission_config.json
+# build and run by-products
+__pycache__/
+*.log
+report/paper/*.aux
+report/paper/*.bbl
+report/paper/*.blg
+report/paper/*.fdb_latexmk
+report/paper/*.fls
+report/paper/*.out
+report/paper/*.pdf
+report/figures/*.aux
+report/figures/*.log

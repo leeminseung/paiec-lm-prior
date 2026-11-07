@@ -1,0 +1,1 @@
+{"call_id": "c000_b00_p0", "budget": 0, "pair": 0, "key": "0be55fcb7268892a", "status": "ok", "probability": 0.3, "wall_s": 15.6, "num_turns": 4, "cost_usd_equiv": 0.10057780000000001, "input_tokens": 6, "cache_read_tokens": 26129, "cache_write_tokens": 9306, "output_tokens": 1044, "labeled_n": 0}

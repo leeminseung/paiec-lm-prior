@@ -1,0 +1,96 @@
+{"budget": 0, "pair": 0, "key": "9420bfa8b10fd6e6", "probability": 0.88, "n_steps": 4, "error": null, "seconds": 13.9, "cost_usd": 0.05747}
+{"budget": 0, "pair": 0, "key": "0a9a0fa21cb3dede", "probability": 0.6, "n_steps": 3, "error": null, "seconds": 18.1, "cost_usd": 0.06045}
+{"budget": 0, "pair": 0, "key": "81682a75509e2c41", "probability": 0.55, "n_steps": 3, "error": null, "seconds": 18.8, "cost_usd": 0.057}
+{"budget": 0, "pair": 0, "key": "5806acee6dbccc8c", "probability": 0.6, "n_steps": 3, "error": null, "seconds": 19.6, "cost_usd": 0.06229}
+{"budget": 0, "pair": 0, "key": "4527531ef59012d1", "probability": 0.85, "n_steps": 3, "error": null, "seconds": 19.6, "cost_usd": 0.06077}
+{"budget": 0, "pair": 0, "key": "b8ab495aba54e464", "probability": null, "error": "ValueError: each LLM turn must contain exactly one tool call", "seconds": 20.9, "cost_usd": 0.06389}
+{"budget": 0, "pair": 0, "key": "73e9b9789d6ebf0b", "probability": 0.85, "n_steps": 4, "error": null, "seconds": 21.3, "cost_usd": 0.05779}
+{"budget": 0, "pair": 0, "key": "ba3793732047337c", "probability": 0.93, "n_steps": 1, "error": null, "seconds": 8.7, "cost_usd": 0.02347}
+{"budget": 0, "pair": 0, "key": "544a26992380a2aa", "probability": 0.5, "n_steps": 3, "error": null, "seconds": 24.3, "cost_usd": 0.06908}
+{"budget": 0, "pair": 1, "key": "c57cc1746d7d3524", "probability": null, "error": "KeyError: 'n_trials'", "seconds": 10.6, "cost_usd": 0.03772}
+{"budget": 0, "pair": 0, "key": "f5acb26a75809b3e", "probability": 0.88, "n_steps": 4, "error": null, "seconds": 16.5, "cost_usd": 0.06115}
+{"budget": 0, "pair": 1, "key": "8b83549f751f953f", "probability": 0.66, "n_steps": 3, "error": null, "seconds": 13.9, "cost_usd": 0.04529}
+{"budget": 0, "pair": 1, "key": "073be306b47b7408", "probability": 0.65, "n_steps": 4, "error": null, "seconds": 16.5, "cost_usd": 0.05778}
+{"budget": 0, "pair": 1, "key": "6cd7f840ef083af9", "probability": null, "error": "UnsupportedParamsError: litellm.UnsupportedParamsError: claude-opus-5-5 does not", "seconds": 16.1, "cost_usd": 0.04566}
+{"budget": 0, "pair": 1, "key": "c8c16e5ebc8a7711", "probability": 0.63, "n_steps": 4, "error": null, "seconds": 15.1, "cost_usd": 0.05996}
+{"budget": 0, "pair": 1, "key": "4f9b17efae0030e7", "probability": 0.6, "n_steps": 3, "error": null, "seconds": 20.7, "cost_usd": 0.05147}
+{"budget": 0, "pair": 2, "key": "36bf80b9deeecab4", "probability": 0.95, "n_steps": 1, "error": null, "seconds": 6.5, "cost_usd": 0.01785}
+{"budget": 0, "pair": 1, "key": "42773a1f0f0226ca", "probability": 0.6, "n_steps": 4, "error": null, "seconds": 24.0, "cost_usd": 0.06188}
+{"budget": 0, "pair": 1, "key": "d07fa50fe36388cc", "probability": null, "error": "UnsupportedParamsError: litellm.UnsupportedParamsError: claude-opus-5-5 does not", "seconds": 11.1, "cost_usd": 0.04277}
+{"budget": 0, "pair": 2, "key": "3ff0e34c8c539b46", "probability": 0.8, "n_steps": 1, "error": null, "seconds": 7.8, "cost_usd": 0.02141}
+{"budget": 0, "pair": 1, "key": "e936b3cc0263e18b", "probability": 0.62, "n_steps": 4, "error": null, "seconds": 14.1, "cost_usd": 0.04405}
+{"budget": 0, "pair": 1, "key": "eb2364af1c69af53", "probability": 0.55, "n_steps": 4, "error": null, "seconds": 13.8, "cost_usd": 0.05093}
+{"budget": 0, "pair": 2, "key": "da5fb3500ac30817", "probability": 0.97, "n_steps": 1, "error": null, "seconds": 5.6, "cost_usd": 0.01474}
+{"budget": 0, "pair": 2, "key": "10a58494243991a0", "probability": 0.7, "n_steps": 1, "error": null, "seconds": 16.7, "cost_usd": 0.03907}
+{"budget": 0, "pair": 2, "key": "e9cb0a5de882cc28", "probability": 0.92, "n_steps": 1, "error": null, "seconds": 7.9, "cost_usd": 0.01962}
+{"budget": 0, "pair": 2, "key": "eabe3376100e8ad2", "probability": 0.93, "n_steps": 1, "error": null, "seconds": 7.0, "cost_usd": 0.01935}
+{"budget": 0, "pair": 2, "key": "9d524e2ddb6e43b7", "probability": 0.85, "n_steps": 1, "error": null, "seconds": 13.0, "cost_usd": 0.03035}
+{"budget": 0, "pair": 2, "key": "f7b28783ff7d5219", "probability": 0.88, "n_steps": 1, "error": null, "seconds": 8.0, "cost_usd": 0.02024}
+{"budget": 0, "pair": 3, "key": "1ef379f302afec93", "probability": 0.85, "n_steps": 1, "error": null, "seconds": 8.1, "cost_usd": 0.02412}
+{"budget": 0, "pair": 3, "key": "2151e10ba5c4e7f8", "probability": 0.95, "n_steps": 1, "error": null, "seconds": 7.2, "cost_usd": 0.01877}
+{"budget": 0, "pair": 2, "key": "7252eeca7f81a607", "probability": 0.86, "n_steps": 1, "error": null, "seconds": 19.3, "cost_usd": 0.04579}
+{"budget": 0, "pair": 3, "key": "2d1bdf24fca2c1ba", "probability": 0.22, "n_steps": 1, "error": null, "seconds": 7.6, "cost_usd": 0.02106}
+{"budget": 0, "pair": 3, "key": "96ee7850373b0a23", "probability": 0.95, "n_steps": 1, "error": null, "seconds": 6.5, "cost_usd": 0.01919}
+{"budget": 0, "pair": 3, "key": "84c6c5f0fd446801", "probability": 0.85, "n_steps": 1, "error": null, "seconds": 7.9, "cost_usd": 0.0235}
+{"budget": 0, "pair": 2, "key": "ad22100c74c1d49b", "probability": 0.48, "n_steps": 3, "error": null, "seconds": 21.6, "cost_usd": 0.05598}
+{"budget": 0, "pair": 3, "key": "dde5eec41632d821", "probability": 0.86, "n_steps": 1, "error": null, "seconds": 8.4, "cost_usd": 0.02442}
+{"budget": 0, "pair": 3, "key": "d9d4cccdff89c60e", "probability": 0.8, "n_steps": 1, "error": null, "seconds": 9.8, "cost_usd": 0.02526}
+{"budget": 0, "pair": 4, "key": "41034b34c8253499", "probability": 0.95, "n_steps": 1, "error": null, "seconds": 5.8, "cost_usd": 0.01462}
+{"budget": 0, "pair": 4, "key": "43ad416ea5c8a58e", "probability": 0.96, "n_steps": 1, "error": null, "seconds": 5.7, "cost_usd": 0.01425}
+{"budget": 0, "pair": 3, "key": "84cb5a5f739d0af4", "probability": 0.58, "n_steps": 1, "error": null, "seconds": 14.8, "cost_usd": 0.03481}
+{"budget": 0, "pair": 4, "key": "47a44b26eaecfe07", "probability": 0.95, "n_steps": 1, "error": null, "seconds": 6.0, "cost_usd": 0.01541}
+{"budget": 0, "pair": 4, "key": "6f07f43881c6b925", "probability": 0.9, "n_steps": 1, "error": null, "seconds": 5.5, "cost_usd": 0.01489}
+{"budget": 0, "pair": 4, "key": "be781530d138f8d1", "probability": 0.96, "n_steps": 1, "error": null, "seconds": 5.8, "cost_usd": 0.01477}
+{"budget": 0, "pair": 3, "key": "ee22b38102c892b1", "probability": 0.45, "n_steps": 2, "error": null, "seconds": 15.0, "cost_usd": 0.03551}
+{"budget": 0, "pair": 4, "key": "d81756c8961d0b01", "probability": 0.85, "n_steps": 1, "error": null, "seconds": 6.0, "cost_usd": 0.01668}
+{"budget": 0, "pair": 4, "key": "2fe062c0c06f2735", "probability": 0.8, "n_steps": 4, "error": null, "seconds": 18.2, "cost_usd": 0.05895}
+{"budget": 0, "pair": 4, "key": "f7278d3b3b436e0f", "probability": null, "error": "UnsupportedParamsError: litellm.UnsupportedParamsError: claude-opus-5-5 does not", "seconds": 9.7, "cost_usd": 0.04335}
+{"budget": 0, "pair": 4, "key": "63613325444cff18", "probability": 0.7, "n_steps": 3, "error": null, "seconds": 17.7, "cost_usd": 0.04708}
+{"budget": 0, "pair": 5, "key": "52a2d64f10f3ba05", "probability": 0.03, "n_steps": 1, "error": null, "seconds": 8.6, "cost_usd": 0.01782}
+{"budget": 0, "pair": 3, "key": "28f0f77ccd5a0c7c", "probability": 0.45, "n_steps": 4, "error": null, "seconds": 33.9, "cost_usd": 0.08961}
+{"budget": 0, "pair": 4, "key": "691257bccf13dab6", "probability": 0.75, "n_steps": 4, "error": null, "seconds": 19.3, "cost_usd": 0.06523}
+{"budget": 0, "pair": 5, "key": "2e512e9d0b6fbb33", "probability": 0.08, "n_steps": 3, "error": null, "seconds": 12.7, "cost_usd": 0.03406}
+{"budget": 0, "pair": 5, "key": "5b5379959581e3f9", "probability": 0.05, "n_steps": 3, "error": null, "seconds": 11.6, "cost_usd": 0.03195}
+{"budget": 0, "pair": 5, "key": "7552ea2206859a3a", "probability": 0.04, "n_steps": 3, "error": null, "seconds": 13.0, "cost_usd": 0.03261}
+{"budget": 0, "pair": 5, "key": "7e2fa02c79e04dd7", "probability": 0.03, "n_steps": 1, "error": null, "seconds": 9.7, "cost_usd": 0.01842}
+{"budget": 0, "pair": 5, "key": "ea10765e9721f129", "probability": 0.05, "n_steps": 1, "error": null, "seconds": 7.1, "cost_usd": 0.01746}
+{"budget": 0, "pair": 5, "key": "fb9ae3626206d649", "probability": 0.03, "n_steps": 1, "error": null, "seconds": 6.9, "cost_usd": 0.01666}
+{"budget": 0, "pair": 5, "key": "cac7fe47332af367", "probability": 0.04, "n_steps": 3, "error": null, "seconds": 11.5, "cost_usd": 0.02987}
+{"budget": 0, "pair": 5, "key": "8af5e3bc6ae468f5", "probability": 0.06, "n_steps": 4, "error": null, "seconds": 15.8, "cost_usd": 0.03875}
+{"budget": 0, "pair": 5, "key": "8188881628bc947b", "probability": 0.05, "n_steps": 3, "error": null, "seconds": 17.7, "cost_usd": 0.03905}
+{"budget": 0, "pair": 6, "key": "6883b46864c13167", "probability": 0.5, "n_steps": 3, "error": null, "seconds": 13.8, "cost_usd": 0.04153}
+{"budget": 0, "pair": 6, "key": "7e7f3a6127b071a5", "probability": 0.2, "n_steps": 3, "error": null, "seconds": 14.4, "cost_usd": 0.04076}
+{"budget": 0, "pair": 6, "key": "1aabde0c52e412d8", "probability": 0.22, "n_steps": 4, "error": null, "seconds": 21.5, "cost_usd": 0.05509}
+{"budget": 0, "pair": 6, "key": "623f498fd7a01373", "probability": 0.2, "n_steps": 4, "error": null, "seconds": 19.7, "cost_usd": 0.06162}
+{"budget": 0, "pair": 6, "key": "61a954e255237479", "probability": 0.35, "n_steps": 4, "error": null, "seconds": 20.2, "cost_usd": 0.06267}
+{"budget": 0, "pair": 6, "key": "8a42ef10727c6806", "probability": 0.4, "n_steps": 3, "error": null, "seconds": 14.0, "cost_usd": 0.04103}
+{"budget": 0, "pair": 6, "key": "8459bf4ee0a03986", "probability": 0.2, "n_steps": 4, "error": null, "seconds": 17.5, "cost_usd": 0.05581}
+{"budget": 0, "pair": 6, "key": "b1365b7cd0549bf6", "probability": 0.4, "n_steps": 4, "error": null, "seconds": 18.1, "cost_usd": 0.05618}
+{"budget": 0, "pair": 7, "key": "1f9fcd71cf329019", "probability": 0.85, "n_steps": 1, "error": null, "seconds": 10.6, "cost_usd": 0.02725}
+{"budget": 0, "pair": 7, "key": "2e7598b4ae8d0653", "probability": 0.82, "n_steps": 1, "error": null, "seconds": 9.3, "cost_usd": 0.02651}
+{"budget": 0, "pair": 7, "key": "329dccf929b9b241", "probability": 0.9, "n_steps": 1, "error": null, "seconds": 11.6, "cost_usd": 0.03043}
+{"budget": 0, "pair": 6, "key": "c8d181d0d17fec3e", "probability": 0.35, "n_steps": 4, "error": null, "seconds": 17.2, "cost_usd": 0.05228}
+{"budget": 0, "pair": 7, "key": "43102077c9be4c90", "probability": 0.92, "n_steps": 1, "error": null, "seconds": 11.2, "cost_usd": 0.02872}
+{"budget": 0, "pair": 7, "key": "5eaaf0ba2dacaf7c", "probability": 0.9, "n_steps": 1, "error": null, "seconds": 7.5, "cost_usd": 0.02182}
+{"budget": 0, "pair": 6, "key": "f7e11d9c0563538d", "probability": 0.35, "n_steps": 4, "error": null, "seconds": 20.4, "cost_usd": 0.0605}
+{"budget": 0, "pair": 7, "key": "723a405b6874a650", "probability": 0.92, "n_steps": 1, "error": null, "seconds": 7.3, "cost_usd": 0.02045}
+{"budget": 0, "pair": 7, "key": "e78ff6ac3577bfc0", "probability": null, "error": "ValueError: each LLM turn must contain exactly one tool call", "seconds": 7.5, "cost_usd": 0.01933}
+{"budget": 0, "pair": 7, "key": "86560b832112a1ab", "probability": 0.93, "n_steps": 1, "error": null, "seconds": 8.4, "cost_usd": 0.02329}
+{"budget": 0, "pair": 7, "key": "589330ea58f3d71a", "probability": 0.5, "n_steps": 1, "error": null, "seconds": 14.8, "cost_usd": 0.03544}
+{"budget": 0, "pair": 8, "key": "000d9fc9de584ad5", "probability": 0.03, "n_steps": 3, "error": null, "seconds": 10.7, "cost_usd": 0.02943}
+{"budget": 0, "pair": 8, "key": "12f7d666f311a098", "probability": 0.05, "n_steps": 3, "error": null, "seconds": 12.4, "cost_usd": 0.03418}
+{"budget": 0, "pair": 8, "key": "00725d5824d5307a", "probability": 0.04, "n_steps": 4, "error": null, "seconds": 13.7, "cost_usd": 0.0361}
+{"budget": 0, "pair": 8, "key": "1d2e72da99cd3002", "probability": 0.03, "n_steps": 3, "error": null, "seconds": 12.7, "cost_usd": 0.03042}
+{"budget": 0, "pair": 7, "key": "455a3f7cfb33f108", "probability": 0.65, "n_steps": 3, "error": null, "seconds": 29.7, "cost_usd": 0.0775}
+{"budget": 0, "pair": 8, "key": "59aede0a8c9f3c1b", "probability": 0.03, "n_steps": 3, "error": null, "seconds": 12.5, "cost_usd": 0.03286}
+{"budget": 0, "pair": 8, "key": "ed748992e526038a", "probability": 0.06, "n_steps": 4, "error": null, "seconds": 14.0, "cost_usd": 0.03982}
+{"budget": 0, "pair": 8, "key": "8b6f413da31c1d53", "probability": 0.06, "n_steps": 4, "error": null, "seconds": 19.5, "cost_usd": 0.0466}
+{"budget": 0, "pair": 8, "key": "fc8d62f31a8003b4", "probability": 0.03, "n_steps": 3, "error": null, "seconds": 13.4, "cost_usd": 0.03066}
+{"budget": 0, "pair": 8, "key": "7ab5e210c9404afc", "probability": 0.04, "n_steps": 4, "error": null, "seconds": 24.6, "cost_usd": 0.04864}
+{"budget": 0, "pair": 8, "key": "f73cb7eecae427fd", "probability": 0.04, "n_steps": 4, "error": null, "seconds": 19.0, "cost_usd": 0.0525}
+{"budget": 0, "pair": 7, "key": "e78ff6ac3577bfc0", "probability": 0.88, "n_steps": 1, "error": null, "seconds": 10.7, "cost_usd": 0.02022}
+{"budget": 0, "pair": 1, "key": "c57cc1746d7d3524", "probability": null, "error": "UnsupportedParamsError: litellm.UnsupportedParamsError: claude-opus-5-5 does not", "seconds": 12.3, "cost_usd": 0.04623}
+{"budget": 0, "pair": 4, "key": "f7278d3b3b436e0f", "probability": null, "error": "UnsupportedParamsError: litellm.UnsupportedParamsError: claude-opus-5-5 does not", "seconds": 14.8, "cost_usd": 0.05194}
+{"budget": 0, "pair": 0, "key": "b8ab495aba54e464", "probability": 0.75, "n_steps": 3, "error": null, "seconds": 16.5, "cost_usd": 0.05389}
+{"budget": 0, "pair": 1, "key": "6cd7f840ef083af9", "probability": 0.6, "n_steps": 4, "error": null, "seconds": 18.6, "cost_usd": 0.05733}
+{"budget": 0, "pair": 1, "key": "d07fa50fe36388cc", "probability": 0.45, "n_steps": 4, "error": null, "seconds": 19.2, "cost_usd": 0.04549}

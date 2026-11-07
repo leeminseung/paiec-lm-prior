@@ -1,0 +1,636 @@
+{"run": "know-opus-low", "benchmark": "aider", "guess": "Aider Polyglot (Exercism-based coding benchmark)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "afrieval", "guess": "MasakhaNER 2.0 (Twi subset)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "agi_elo", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "aegis", "guess": "Anthropic HH-RLHF red-team prompts (possibly via BeaverTails/PKU-SafeRLHF)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for QA)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "ai2d_test", "guess": "AI2D (AI2 Diagrams)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "alpha_sql", "guess": "BIRD (BIg Bench for LaRge-scale Database Grounded Text-to-SQL), dev set", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "averimatec", "guess": "AVerImaTeC (image-text claim verification, the multimodal extension of AVeriTeC)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "beavertails", "guess": "BeaverTails (PKU-Alignment safety QA dataset)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "bertaqa", "guess": "BertaQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "bird_sql", "guess": "BIRD (BIg Bench for LaRge-scale Database Grounded Text-to-SQL), Mini-Dev / dev set", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "bridging_gap", "guess": "Belebele (Northern Sotho / nso_Latn)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "cmmlu", "guess": "CMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "ceval", "guess": "C-Eval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "clasheval", "guess": "ClashEval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "critic_discernment_game", "guess": "MATH (Hendrycks et al.), likely the MATH-500 subset, in a Llama 3.1 chat-template eval format", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "devbench", "guess": "DevBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "ehrflowbench", "guess": "EHRFlowBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "cruxeval", "guess": "CRUXEval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "egoschema", "guess": "EgoSchema", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "editbench", "guess": "EditBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "engdesign", "guess": "EngDesign (Toward Engineering AGI: Benchmarking the Engineering Design Capabilities of LLMs)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "erbench", "guess": "ERBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "enginemt_qa", "guess": "EngineMT-QA (from ITFormer)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "evouna", "guess": "Natural Questions (open-domain, possibly mixed with TriviaQA)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-Bench Hard (BBH)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "hallusionbench", "guess": "HallusionBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "financebench", "guess": "FinanceBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for QA)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "helm_thaiexam", "guess": "ThaiExam", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "hle", "guess": "Humanity's Last Exam (HLE)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "helm_afr", "guess": "African-language translations of MMLU (clinical/virology) and Winogrande (Winogrande-ZA / MMLU-Clinical-ZA, part of AfroBench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "igakuqa", "guess": "IgakuQA (Japanese National Medical Licensing Examination)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "igakuqa119", "guess": "IgakuQA (Japanese National Medical Licensing Examination benchmark), possibly a newer-year variant such as IgakuQA119", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "kmmlu", "guess": "KMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "kormedmcqa", "guess": "KorMedMCQA (dentist subset)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "legalbench", "guess": "LegalBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "lingoly", "guess": "LingOly", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "llm_bp_tag", "guess": "Sports-Fitness (SportsFit) node classification dataset from CS-TAG / text-attributed graph benchmarks (e.g., GLBench, LLMNodeBed)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "llms_lean_formalization", "guess": "miniF2F (Lean 4 version)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "mathvista_mini", "guess": "MathVista", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_ehr_sql", "guess": "EHRSQL (eICU subset, as used in Stanford's MedHELM)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_head_qa", "guess": "HEAD-QA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_med_mcqa", "guess": "MedMCQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_med_qa", "guess": "MedQA (USMLE, 4-option)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_medbullets", "guess": "Medbullets (Medbullets-5 op5)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_medhallu", "guess": "MedHallu", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_race_based_med", "guess": "RaceBias (MedHELM; based on Omiye et al. 2023, \"Large language models propagate race-based medicine\")", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "mj_bench", "guess": "MJ-Bench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "mmbench_v11", "guess": "MMBench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "mmlu", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "mtbbench", "guess": "MTBBench (Molecular Tumor Board benchmark, using the HANCOCK cohort)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "morphkv", "guess": "LongGenBench (Wu et al., 2024 – long-form generation benchmark with skyscraper/urban planning/diary/menu tasks)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "monkey_power_laws", "guess": "MATH (Hendrycks), Minerva 4-shot prompt format (minerva_math)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "multi_swebench", "guess": "SWE-bench (Verified)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "naep_llm_students", "guess": "NAEP (National Assessment of Educational Progress) released items, from the NAEP Questions Tool", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "pku_saferlhf", "guess": "PKU-SafeRLHF (or the related BeaverTails dataset)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "nyu_ctf_bench", "guess": "NYU CTF Bench (NYU CTF Dataset)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "ood_prediction", "guess": "Indirect Object Identification (IOI) dataset (Wang et al., 2022; also used in the Mechanistic Interpretability Benchmark, MIB)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "planbench", "guess": "PlanBench (Mystery Blocksworld)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "perumedqa", "guess": "PeruMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "real_webagents", "guess": "REAL (Realistic Evaluations for Agents Leaderboard / REAL Bench by AGI, Inc.)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "proofaug", "guess": "miniF2F (Isabelle split)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "realtimeqa", "guess": "RealTime QA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "revolve", "guess": "GPQA (Diamond)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "risebench", "guess": "RISEBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "statqa", "guess": "StatQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "sugarcrepe", "guess": "SugarCrepe", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "sketchjudge", "guess": "SketchJudge", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "sib200", "guess": "FLORES-200 (romanized Arabic/Arabizi variant of FLORES devtest sentences)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "tau2_bench", "guess": "τ²-bench (tau2-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "taubench", "guess": "τ-bench (tau-bench), airline domain", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "subjective_qa", "guess": "SubjECTive-QA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "swepolybench", "guess": "Multi-SWE-bench (Java subset)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA (multiple-choice, MC1/MC2)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "tumlu", "guess": "TUMLU (Turkic MMLU)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "tulu_human_eval", "guess": "Self-Instruct user-oriented instructions (252 eval set)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "vl_rewardbench", "guess": "VL-RewardBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_medcalc_bench", "guess": "MedCalc-Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "workarena", "guess": "WorkArena++ (WorkArena, ServiceNow; BrowserGym)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "workbench_revisited", "guess": "WorkBench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "sgrades", "guess": "SemEval-2013 Task 7: Joint Student Response Analysis (SciEntsBank / Beetle)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "swe_rebench", "guess": "SWE-rebench (Nebius SWE-bench-extra style dataset of GitHub issues)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "appworld", "guess": "AppWorld", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "kernelbench", "guess": "KernelBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "babilong", "guess": "BABILong", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "medhelm_medec", "guess": "MEDEC (Medical Error Detection and Correction, MEDIQA-CORR 2024 shared task)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "afrieval", "guess": "MasakhaNER (Twi test set, original MasakhaNER 1.0 BIO tagging)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "algotune", "guess": "AlgoTune", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-opus-low", "benchmark": "worldcentralbanks", "guess": "WorldsCentralBanks (WCB) – Words That Unite the World central bank communication benchmark", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "aider", "guess": "Exercism-based coding benchmark (e.g., Aider Polyglot, which uses Exercism exercises in C++ and other languages)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "alpha_sql", "guess": "BIRD (BIg Bench for LaRge-scale Database Grounded Text-to-SQL Evaluation)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "bird_sql", "guess": "BIRD (BIg Bench for LaRge-scale Database Grounded Text-to-SQL Evaluation), dev set", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "bridging_gap", "guess": "Belebele (Northern Sotho / Sepedi, nso_Latn)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "cmmlu", "guess": "C-Eval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "critic_discernment_game", "guess": "MATH (Hendrycks et al.) / MATH-500, as used in Llama 3.1 evaluation format", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "cellverse", "guess": "scEval / cell type annotation from ranked gene lists (multiple sclerosis snRNA-seq, Schirmer et al. 2019 data), e.g., C2S-style or \"LLM cell type annotation\" benchmark", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "cruxeval", "guess": "CRUXEval (CRUXEval-I input prediction and CRUXEval-O output prediction)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "devbench", "guess": "DevBench (lex-viz_vocab and gram-trog tasks)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "edu_circuit_hw", "guess": "EDU-CIRCUIT-HW", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "egoschema", "guess": "Ego4D (Goal-Step / Narrations; egocentric video narrations, possibly EgoSchema-derived)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-bench Hard (BBH)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "hallusionbench", "guess": "HallusionBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "financebench", "guess": "FinanceBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "helm_afr", "guess": "IrokoBench-like African-language MMLU/Winogrande translations (likely Uhura or \"AfroBench\"/Winogrande-ZA/MMLU-Clinical-ZA style)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "igakuqa", "guess": "IgakuQA (Japanese National Medical Licensing Examination QA)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "legalbench", "guess": "LegalBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "llms_lean_formalization", "guess": "MiniF2F (Lean 4 version, as used in DeepSeek-Prover / Kimina-Prover formatting)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "mmlu", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "monkey_power_laws", "guess": "MATH (Minerva 4-shot prompt, e.g. MATH / MATH-500 / Hendrycks MATH)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "mtbbench", "guess": "HANCOCK (Head and Neck Cancer Multimodal Dataset, Erlangen/Hancock cohort) – multimodal case-based benchmark", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "multi_swebench", "guess": "SWE-bench (Django issues; likely SWE-bench Verified)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "nyu_ctf_bench", "guess": "NYU CTF Bench (NYU CTF Dataset, CSAW CTF challenges)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "proofaug", "guess": "MiniF2F (Isabelle version)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "planbench", "guess": "Mystery Blocksworld (obfuscated Blocksworld from PlanBench)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "swepolybench", "guess": "Multi-SWE-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "taubench", "guess": "τ-bench (tau-bench) airline domain", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "tau2_bench", "guess": "τ²-bench (tau-squared bench), with retail and telecom domains", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA (multiple-choice, MC1/MC2 with the default QA prompt)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "tulu_human_eval", "guess": "Super-NaturalInstructions", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "medhelm_medcalc_bench", "guess": "MedCalc-Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "workarena", "guess": "WorkArena++ (ServiceNow)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "workbench_revisited", "guess": "WorkBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "swe_rebench", "guess": "SWE-bench Multimodal / multi-language GitHub issue resolution (SWE-Gym or SWE-bench-extra style, e.g., nemotron/SWE-rebench)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "kernelbench", "guess": "KernelBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "medhelm_medec", "guess": "MEDEC (MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "appworld", "guess": "AppWorld", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "babilong", "guess": "BABILong", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-sonnet-low", "benchmark": "algotune", "guess": "AlgoTune", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "abstract_reason", "guess": "KOR-Bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "afrieval", "guess": "MasakhaNER", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "alpha_sql", "guess": "BIRD (BIRD-SQL / BIRD-bench)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "aider", "guess": "Aider polyglot benchmark", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "bird_sql", "guess": "BIRD (BIRD-SQL / BIRD-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "egoschema", "guess": "Charades-Ego", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "elicitation_game", "guess": "WMDP (Weapons of Mass Destruction Proxy), biology subset", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-Bench Hard (BBH)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "hle", "guess": "Humanity's Last Exam", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "helm_thaiexam", "guess": "ThaiExam", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "kmmlu", "guess": "KMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "lingoly", "guess": "LingOly", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "llms_lean_formalization", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "medhelm_med_qa", "guess": "MedQA (USMLE)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "medhelm_ehr_sql", "guess": "EHRSQL", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "medhelm_race_based_med", "guess": "Race-based medicine question set (Omiye et al., 2023, \"Large language models propagate race-based medicine\")", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "mmlu", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "monkey_power_laws", "guess": "MATH (Hendrycks et al., 2021)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "mtbbench", "guess": "HANCOCK", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "naep_llm_students", "guess": "NAEP (National Assessment of Educational Progress) released questions", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "proofaug", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "planbench", "guess": "PlanBench (Mystery Blocksworld variant)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "tau2_bench", "guess": "τ²-bench (tau2-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "taubench", "guess": "τ-bench (TAU-bench) airline domain", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "medhelm_medcalc_bench", "guess": "MedCalc-Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "workarena", "guess": "WorkArena", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "kernelbench", "guess": "KernelBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-haiku-low", "benchmark": "babilong", "guess": "BABILONG", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "agi_elo", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "alpha_sql", "guess": "BIRD-SQL (BIRD)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "afrieval", "guess": "MasakhaNER", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "bertaqa", "guess": "BasqueEval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "bird_sql", "guess": "BIRD-SQL (BIRD: A Big Bench for Large Language Models Crossing Database and Reasoning)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "aider", "guess": "Exercism (code-generation benchmark)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "bridging_gap", "guess": "Belebele", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "clasheval", "guess": "RealTimeQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "critic_discernment_game", "guess": "MATH (Hendrycks et al.)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "elicitation_game", "guess": "MMLU", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "cruxeval", "guess": "CRUXEval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "cmmlu", "guess": "CMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "financebench", "guess": "FinanceBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "exploitgym", "guess": "CyberGym", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-bench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "egoschema", "guess": "Ego4D (narration annotations)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "evouna", "guess": "Jeopardy! (Jeopardy-derived QA benchmark, e.g., the J! Archive dataset used in HELM/SearchQA)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for QA)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "helm_afr", "guess": "BenchMAX", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "igakuqa", "guess": "JMedBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "finegrain_t2i", "guess": "Parti", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "hle", "guess": "Humanity's Last Exam (HLE)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "kmmlu", "guess": "KMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "legalbench", "guess": "LegalBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "mathvista_mini", "guess": "MathVista", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "llms_lean_formalization", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "medhelm_head_qa", "guess": "HEAD-QA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "medhelm_med_mcqa", "guess": "MedMCQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "medhelm_ehr_sql", "guess": "EHRSQL", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "mmlu", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "monkey_power_laws", "guess": "MATH (Hendrycks et al.)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "nyu_ctf_bench", "guess": "NYU CTF Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "proofaug", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "multi_swebench", "guess": "SWE-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "planbench", "guess": "PlanBench (Mystery/Obfuscated Blocksworld domain)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "real_webagents", "guess": "Schema-Guided Dialogue (SGD)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "perumedqa", "guess": "HeadQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "taubench", "guess": "τ-bench (tau-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "tau2_bench", "guess": "τ²-bench (tau-bench family; retail items match original τ-bench, telecom items match τ²-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "vl_rewardbench", "guess": "VL-RewardBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "tulu_human_eval", "guess": "Natural Instructions (NaturalInstructions / Super-NaturalInstructions)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "medhelm_medcalc_bench", "guess": "MedCalc-Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "swe_rebench", "guess": "SWE-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "appworld", "guess": "AppWorld", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "workarena", "guess": "WorkArena++ (ServiceNow Research)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "kernelbench", "guess": "KernelBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-glm53flash", "benchmark": "babilong", "guess": "bAbI (Facebook bAbI synthetic QA tasks)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "afrieval", "guess": "MasakhaNER", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "alpha_sql", "guess": "BIRD (BIRD-SQL / BIRD Text-to-SQL Benchmark)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "aider", "guess": "Exercism", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "bird_sql", "guess": "BIRD (BIRD-SQL)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "agi_elo", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for QA)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "cruxeval", "guess": "CRUXEval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "egoschema", "guess": "EgoSchema", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "bridging_gap", "guess": "Belebele", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-Bench Hard (BBH) / BIG-Bench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for QA)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "llms_lean_formalization", "guess": "MiniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "multi_swebench", "guess": "SWE-Bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "naep_llm_students", "guess": "NAEP - National Assessment of Educational Progress (The Nation's Report Card)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "proofaug", "guess": "MiniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "taubench", "guess": "τ-bench (tau-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "nyu_ctf_bench", "guess": "Cybench / NYU CTF Bench (InterCode-CTF CSAW collection)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "workarena", "guess": "WorkArena", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "afrimedqa", "guess": "MedQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "babilong", "guess": "bAbI / BABILong (bAbI Long-context extension)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "agi_elo", "guess": "MMLU", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "aider", "guess": "Aider Polyglot benchmark", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "alpha_sql", "guess": "BIRD (BIg Bench for LaRge-scale Database Grounded Text-to-SQL Evaluation)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "ai2d_test", "guess": "ScienceQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "afrieval", "guess": "MasakhaNER 2.0", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "bird_sql", "guess": "BIRD (BIRD-SQL)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "abstract_reason", "guess": "BIG-Bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "bridging_gap", "guess": "Belebele", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "causal_axioms", "guess": "BIG-Bench (d_separation task)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "ceval", "guess": "C-Eval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "brace", "guess": "Vinoground", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "critic_discernment_game", "guess": "MATH", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "bertaqa", "guess": "BasqueGLUE (EusExams task)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "cruxeval", "guess": "CRUXEval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "cellverse", "guess": "scBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "editbench", "guess": "CodeEditorBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "cmmlu", "guess": "CMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "elicitation_game", "guess": "MMLU", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "evouna", "guess": "TriviaQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "egoschema", "guess": "Ego4D", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-Bench Hard (BBH)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "exploitgym", "guess": "CyberGym", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "financebench", "guess": "FinQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "clasheval", "guess": "FreshQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "haiid", "guess": "BIG-bench (sarcasm task)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "devbench", "guess": "VHELM (Holistic Evaluation of Vision-Language Models)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "hle", "guess": "Humanity's Last Exam (HLE)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "helm_thaiexam", "guess": "ThaiExam", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "igakuqa", "guess": "IgakuQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "igakuqa119", "guess": "IgakuQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "kmmlu", "guess": "KMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "kormedmcqa", "guess": "KMMLU", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "faithcot", "guess": "C-Eval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "ikp", "guess": "SimpleQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "lingoly", "guess": "LINGOLY", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "helm_afr", "guess": "AfroBench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "judgetuning", "guess": "AlpacaEval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "legalbench", "guess": "LegalBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "mathvista_mini", "guess": "MathVista", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "llms_lean_formalization", "guess": "MiniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "mathconstraint", "guess": "GraphArena", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "medhelm_ehr_sql", "guess": "EHRSQL", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "medhelm_medhallu", "guess": "MedHallu", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "medhelm_med_qa", "guess": "MedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "medhelm_med_mcqa", "guess": "MedQA (4-option version)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "mmlu", "guess": "MMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "medhelm_medbullets", "guess": "MedQA (USMLE)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "mmbench_v11", "guess": "MMBench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "multi_swebench", "guess": "SWE-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "monkey_power_laws", "guess": "MATH", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "nyu_ctf_bench", "guess": "Cybench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "naturebench", "guess": "ScienceAgentBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "naep_llm_students", "guess": "NAEP (National Assessment of Educational Progress) released items", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "planbench", "guess": "PlanBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "proofaug", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "mj_bench", "guess": "HELM (Holistic Evaluation of Language Models), specifically its multimodal/VHELM image-generation evaluation", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "statqa", "guess": "StatQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "revolve", "guess": "GPQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "realtimeqa", "guess": "FreshQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "real_webagents", "guess": "Mind2Web", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "tau2_bench", "guess": "τ²-bench (tau2-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "swepolybench", "guess": "Multi-SWE-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "taubench", "guess": "τ-bench (tau-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "software_world_models", "guess": "SWE-bench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "sugarcrepe", "guess": "SugarCrepe", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "tulu_human_eval", "guess": "Super-NaturalInstructions", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "medhelm_medcalc_bench", "guess": "MedCalc-Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "txbench_pp", "guess": "BixBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "wikihow_agent", "guess": "WikiHow", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "workarena", "guess": "WorkArena", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "workbench_revisited", "guess": "OfficeBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "sgrades", "guess": "ASAP-SAS", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "visual_riddles", "guess": "MMBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "kernelbench", "guess": "KernelBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "babilong", "guess": "BABILong", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "visualwebarena", "guess": "WebArena", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "medhelm_medec", "guess": "MEDIQA-CORR", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "algotune", "guess": "SciCode", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "appworld", "guess": "AppWorld", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "dave", "guess": "AVQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "worldcentralbanks", "guess": "FinBen", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-dsv41flash", "benchmark": "robust_reasoning_benchmark", "guess": "AIME 2024", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "afrimedqa", "guess": "MedMCQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "afrieval", "guess": "MasakhaNER (MasakhaNER 2.0, Nigerian-language NER)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "agi_elo", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "alpha_sql", "guess": "BIRD (BIg Bench for laRge-scale Database Grounded Text-to-SQL Evaluation)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "aider", "guess": "Aider polyglot benchmark (Exercism C++ exercises)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "averimatec", "guess": "Factify", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "bird_sql", "guess": "BIRD", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "bertaqa", "guess": "Belebele", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "bridging_gap", "guess": "Belebele", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "clasheval", "guess": "RealTimeQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "cruxeval", "guess": "CRUXEval (CRUXEval-X / I/O mode)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "adaptivestep", "guess": "MATH (Hendrycks et al. mathematics dataset)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "critic_discernment_game", "guess": "MATH (Hendrycks et al. competition mathematics benchmark; MATH-500 subset of these problems)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "devbench", "guess": "VALSE (Vision And Language Structured Evaluation)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "elicitation_game", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "disco", "guess": "MovieBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "ehrflowbench", "guess": "EHRSFlow (EHRFlowBench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "cmmlu", "guess": "C-Eval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "enginemt_qa", "guess": "ChatTime", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "evouna", "guess": "TriviaQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "exploitgym", "guess": "CyberGym", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "financebench", "guess": "FinanceBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "haiid", "guess": "SARC (Sarcasm Reddit Corpus / News Headlines Dataset for Sarcasm Detection)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "fewshot_ttt_bbh", "guess": "bAbI (Facebook AI Research bAbI tasks / question answering dataset)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "hle", "guess": "MMMU (Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "ikp", "guess": "TriviaQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "igakuqa119", "guess": "JMedBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "igakuqa", "guess": "JMedEval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "helm_thaiexam", "guess": "TMMLU / MMLU-Thai (Thai Massive Multitask Language Understanding – Thai-language MMLU-style MCQ benchmark)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "lingoly", "guess": "LingOly (Linguistics Olympiad benchmark, ICLR 2025)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "kormedmcqa", "guess": "KMMLU (Korean Massive Multitask Language Understanding — dentistry category drawn from the Korean national dental licensing exam)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "kmmlu", "guess": "HAERAE (HAERAE-Bench)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "llms_lean_formalization", "guess": "miniF2F (test split)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "medhelm_ehr_sql", "guess": "EHRSQL", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "medhelm_medhallu", "guess": "MedHallu", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "medhelm_medbullets", "guess": "MedQA (USMLE-style multiple-choice medical exam dataset)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "medhelm_med_qa", "guess": "MedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "mj_bench", "guess": "HRSBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "medhelm_med_mcqa", "guess": "MedMCQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "mmlu", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "monkey_power_laws", "guess": "MATH (Hendrycks et al. MATH dataset)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "mathvista_mini", "guess": "MathVista", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "multi_swebench", "guess": "SWE-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "naep_llm_students", "guess": "NAEP (National Assessment of Educational Progress) item pool / nationsreportcard.gov released items", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "nyu_ctf_bench", "guess": "cybench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "proofaug", "guess": "miniF2F (miniF2F/PISA Isabelle theorem benchmark)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "realtimeqa", "guess": "RealTimeQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "revolve", "guess": "GPQA (Graduate-Level Google-Proof Question Assessment)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "sugarcrepe", "guess": "Winoground", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "swepolybench", "guess": "SWE-bench (Java subset / Multi-SWE-bench)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "taubench", "guess": "tau-bench (τ-bench, airline domain)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "txbench_pp", "guess": "DiscoveryBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "tau2_bench", "guess": "tau-bench (τ-bench)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "vl_rewardbench", "guess": "RLAIF-V (LLaVA-NeXT RLHF preference dataset)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "kernelbench", "guess": "KernelBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "medhelm_medcalc_bench", "guess": "MedCalc-Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "appworld", "guess": "τ-bench (tau-bench), retail domain", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "robust_reasoning_benchmark", "guess": "ScaleQuest-Math", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "babilong", "guess": "bAbI (Facebook bAbI / BabyAI question-answering task set)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "openbiorq", "guess": "FrontierScience", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "dave", "guess": "Perception Test", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m31flash", "benchmark": "worldcentralbanks", "guess": "FLAME (Financial Language Model Assessment benchmark, insight-extraction task on central bank minutes)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "ai2d_test", "guess": "ScienceQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "agi_elo", "guess": "Massive Multitask Language Understanding (MMLU)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "afrimedqa", "guess": "MedQA (English USMLE split)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "alpha_sql", "guess": "BIRD (Big Bench for Large-scale Database Grounded Text-to-SQL Evaluation)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "averimatec", "guess": "AVeriTeC (Automated Verification of Real-World Claims)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "adaptivestep", "guess": "Hendrycks MATH", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "bird_sql", "guess": "BIRD (Big Bench for Large-Scale Database Grounded Text-to-SQL Evaluation)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "bridging_gap", "guess": "Belebele", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "brace", "guess": "Winoground", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "causal_axioms", "guess": "BIG-bench Extra Hard (BBEH), specifically the causal_understanding task from BIG-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "critic_discernment_game", "guess": "MATH (Hendrycks et al., 2021) / the MATH-500 subset used in modern evaluations", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "cruxeval", "guess": "CRUXEval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "evouna", "guess": "TriviaQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "exploitgym", "guess": "CyberGym", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-Bench Hard (BBH), the hard-task subset of BIG-bench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "financebench", "guess": "FinanceBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "legalbench", "guess": "LexGLUE", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "igakuqa", "guess": "J-HOPE（医療問題求解能力評価・Japanese Healthcare Problem-solving Evaluation）", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "kormedmcqa", "guess": "DENTEX", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "hle", "guess": "MMMU (Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "mathvista_mini", "guess": "MathVista", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "lingoly", "guess": "BIG-bench (Beyond the Imitation Game), specifically the linguistics_puzzles task", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "llms_lean_formalization", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "medhelm_med_mcqa", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "medhelm_medbullets", "guess": "MedQA (MedQA-USMLE)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "mj_bench", "guess": "GenAI-Bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "mmlu", "guess": "Massive Multitask Language Understanding (MMLU)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "multi_swebench", "guess": "SWE-bench (Django subset)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "mmbench_v11", "guess": "MMBench (English/MMBench_DEV_EN)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "monkey_power_laws", "guess": "MATH (Hendrycks et al., 2021, 'Measuring Mathematical Problem Solving With the MATH Dataset')", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "nester", "guess": "CodeInsight", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "nyu_ctf_bench", "guess": "CyBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "naturebench", "guess": "BixBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "realtimeqa", "guess": "RealTimeQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "revolve", "guess": "Massively Multitask Language Understanding (MMLU)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "proofaug", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "taubench", "guess": "τ-bench (TauBench), specifically the Airline domain", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "tau2_bench", "guess": "τ²-bench (tau2-bench), the successor/extension to τ-bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "txbench_pp", "guess": "BixBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "vl_rewardbench", "guess": "MM-Vet", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "appworld", "guess": "AssistantBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "workarena", "guess": "WorkArena++ (the ServiceNow-based BrowserGym benchmark)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "kernelbench", "guess": "KernelBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "medhelm_medcalc_bench", "guess": "MedCalc-Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "babilong", "guess": "BABILong", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "mmlu", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "bbq", "guess": "BIG-bench — the `known_unknowns` task", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-muse-spark-open", "benchmark": "tau2_bench", "guess": "tau-bench (τ-bench)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "afrieval", "guess": "MasakhaNER", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "aegis", "guess": "RealToxicityPrompts (RTP)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "beavertails", "guess": "TruthfulQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "abstract_reason", "guess": "BIG-bench (symbol_interpretation task)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "cmmlu", "guess": "C-Eval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "disco", "guess": "MovieChat-1K (from the MovieChat benchmark)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "ceval", "guess": "AGIEval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "devbench", "guess": "MIRB", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "elicitation_game", "guess": "Massive Multitask Language Understanding (MMLU)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "ehrflowbench", "guess": "EHRFlowBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "clasheval", "guess": "FreshQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "erbench", "guess": "StrategyQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "haiid", "guess": "BIG-Bench Hard (BBH), specifically the `snarks` task", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "egoschema", "guess": "Ego4D", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "hallusionbench", "guess": "HallusionBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "ikp", "guess": "SimpleQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "healthadminbench", "guess": "WebChoreArena", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "igakuqa119", "guess": "JMedQA (Japanese Medical QA), a JMLE-derived benchmark", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "helm_thaiexam", "guess": "M3Exam", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "kmmlu", "guess": "KMMLU (Korean Massive Multi-Task Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "llm_bp_tag", "guess": "BIG-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "liveaopsbench", "guess": "OlympiadBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "medhelm_ehr_sql", "guess": "EHRSQL (EHR text-to-SQL benchmark, incl. its 2024 extension with eICU)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "mtbbench", "guess": "PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "medhelm_medhallu", "guess": "Med-HALT (Medical Hallucination Test)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "medhelm_med_qa", "guess": "MedQA (USMLE split)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "planbench", "guess": "PlanBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "medhelm_race_based_med", "guess": "AIRBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "real_webagents", "guess": "AssistantBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "perumedqa", "guess": "MIR (Médico Interno Residente / Spanish Medical Internal Resident exam)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "tulu_human_eval", "guess": "Natural Instructions (Super-NaturalInstructions)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "sugarcrepe", "guess": "Winoground", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "weavebench", "guess": "Terminal-Bench 2.0", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "swepolybench", "guess": "SWE-bench Multilingual (SWE-bench M)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "tumlu", "guess": "M3Exam", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "workbench_revisited", "guess": "WorkBench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "robust_reasoning_benchmark", "guess": "LiveBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "dave", "guess": "Perception Test", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-minimax-m3", "benchmark": "worldcentralbanks", "guess": "FLAME (Financial Large Language Model Assessment)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "agi_elo", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "alpha_sql", "guess": "BIRD (BIg Bench for large-scale Database grounded text-to-SQL evaluation)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "afrieval", "guess": "MasakhaNER 2.0", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "ai2d_test", "guess": "AI2D (Allen Institute for AI Diagrams)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for QA)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "aider", "guess": "Aider Polyglot Benchmark", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "bertaqa", "guess": "EusTrivia", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "bird_sql", "guess": "BIRD (BIg Bench for LaRge-scale Database Grounded Text-to-SQL Evaluation)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "beavertails", "guess": "SimpleSafetyTests", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "ceval", "guess": "C-Eval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "bridging_gap", "guess": "Belebele", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "cmmlu", "guess": "CMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "cruxeval", "guess": "CRUXEval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "elicitation_game", "guess": "WMDP (Weapons of Mass Destruction Proxy) — biology subset", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "critic_discernment_game", "guess": "MATH", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "egoschema", "guess": "EgoSchema", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "exploitgym", "guess": "CyberGym", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "financebench", "guess": "FinanceBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "erbench", "guess": "CRAG (Comprehensive RAG Benchmark)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for QA)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "hallusionbench", "guess": "HallusionBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-Bench Hard (BBH)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "helm_thaiexam", "guess": "ThaiExam", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "hle", "guess": "Humanity's Last Exam (HLE)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "helm_afr", "guess": "AfroBench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "igakuqa", "guess": "IgakuQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "kmmlu", "guess": "KMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "legalbench", "guess": "LegalBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "judgetuning", "guess": "AlpacaEval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "lingoly", "guess": "BIG-bench — linguistics_puzzles", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "llms_lean_formalization", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "mathvista_mini", "guess": "MathVista", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "medhelm_ehr_sql", "guess": "EHRSQL", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "medhelm_head_qa", "guess": "HEAD-QA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "medhelm_med_mcqa", "guess": "MedMCQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "medhelm_medbullets", "guess": "MedQA (USMLE)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "medhelm_med_qa", "guess": "MedQA (USMLE)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "mmlu", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "medhelm_medhallu", "guess": "MedHallu", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "mmbench_v11", "guess": "MMBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "monkey_power_laws", "guess": "MATH (Hendrycks et al.)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "multi_swebench", "guess": "SWE-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "morphkv", "guess": "LongGenBench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "naep_llm_students", "guess": "NAEP (National Assessment of Educational Progress)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "nyu_ctf_bench", "guess": "NYU CTF Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "planbench", "guess": "PlanBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "proofaug", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "pku_saferlhf", "guess": "Do-Not-Answer", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "prox", "guess": "ASDiv", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "realtimeqa", "guess": "RealTimeQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "revolve", "guess": "GPQA (Graduate-Level Google-Proof Q&A)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "statqa", "guess": "StatQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "sugarcrepe", "guess": "SugarCrepe", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "tau2_bench", "guess": "τ²-bench (tau2-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "subjective_qa", "guess": "FinBen (Management Assessment task)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "taubench", "guess": "τ-bench (tau-bench), airline domain", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "vl_rewardbench", "guess": "VLRewardBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "tulu_human_eval", "guess": "Self-Instruct", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "afrimedqa", "guess": "MedQA (USMLE)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "agi_elo", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "alpha_sql", "guess": "BIRD", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61sol", "benchmark": "workbench_revisited", "guess": "WorkBench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "bird_sql", "guess": "BIRD (Big Bench for Large-Scale Database Grounded Text-to-SQL Evaluation)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "ceval", "guess": "C-Eval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "cmmlu", "guess": "CMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "bridging_gap", "guess": "Belebele", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "cruxeval", "guess": "CRUXEval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "critic_discernment_game", "guess": "MATH", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-Bench Hard (BBH)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "elicitation_game", "guess": "WMDP (Weapons of Mass Destruction Proxy), biology subset", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "financebench", "guess": "FinanceBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "hle", "guess": "Humanity's Last Exam", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "hallusionbench", "guess": "HallusionBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "kmmlu", "guess": "KMMLU (Korean Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "legalbench", "guess": "LegalBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "lingoly", "guess": "LingOly", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "llms_lean_formalization", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "medhelm_ehr_sql", "guess": "EHRSQL", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "medhelm_head_qa", "guess": "HEAD-QA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "medhelm_med_qa", "guess": "MedQA (USMLE)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "medhelm_med_mcqa", "guess": "MedMCQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "mathvista_mini", "guess": "MathVista", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "mmlu", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "medhelm_medbullets", "guess": "MedBullets", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "naep_llm_students", "guess": "National Assessment of Educational Progress (NAEP)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "multi_swebench", "guess": "SWE-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "mmbench_v11", "guess": "MMBench", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "nyu_ctf_bench", "guess": "NYU CTF Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "planbench", "guess": "PlanBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "proofaug", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "ood_prediction", "guess": "Indirect Object Identification (IOI)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "revolve", "guess": "GPQA (Graduate-Level Google-Proof Q&A)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "taubench", "guess": "τ-bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "tau2_bench", "guess": "τ²-bench (tau2-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "tulu_human_eval", "guess": "BIG-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt61terra", "benchmark": "visualwebarena", "guess": "VisualWebArena", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "afrimedqa", "guess": "MedMCQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "agi_elo", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "ai2d_test", "guess": "ScienceQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "aider", "guess": "Exercism", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "alpha_sql", "guess": "Spider", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "bbq", "guess": "BBQ (Bias Benchmark for Question Answering)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "bird_sql", "guess": "Spider", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "bridging_gap", "guess": "Belebele", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "ceval", "guess": "C-Eval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "causal_axioms", "guess": "CLadder", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "cmmlu", "guess": "CMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "cruxeval", "guess": "CRUXEval", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "editbench", "guess": "CodeEditorBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "elicitation_game", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "egoschema", "guess": "Ego4D", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "exploitgym", "guess": "CyberGym", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "financebench", "guess": "FinQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "fewshot_ttt_bbh", "guess": "BIG-Bench Hard (BBH)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "haiid", "guess": "SARC (Self-Annotated Reddit Corpus)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "helm_bbq", "guess": "BBQ (Bias Benchmark for QA)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "hle", "guess": "Humanity's Last Exam (HLE)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "mathconstraint", "guess": "NPHardEval", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "medhelm_head_qa", "guess": "MedExpQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "kmmlu", "guess": "KMMLU", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "kormedmcqa", "guess": "KMMLU (Korean Massive Multitask Language Understanding)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "mathvista_mini", "guess": "MathVista", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "medhelm_med_mcqa", "guess": "MedMCQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "medhelm_med_qa", "guess": "MedQA (USMLE)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "medhelm_pubmed_qa", "guess": "PubMedQA", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "mmlu", "guess": "MMLU (Massive Multitask Language Understanding)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "medhelm_medbullets", "guess": "MedQA (USMLE)", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "medhelm_medhallu", "guess": "MedHallu", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "mmlupro", "guess": "MMLU-Pro", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "naep_llm_students", "guess": "National Assessment of Educational Progress (NAEP)", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "planbench", "guess": "PlanBench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "pku_saferlhf", "guess": "Do-Not-Answer", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "nyu_ctf_bench", "guess": "CTF-Bench", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "proofaug", "guess": "miniF2F", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "realtimeqa", "guess": "FreshQA", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "tau2_bench", "guess": "τ²-Bench (tau-squared-bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "taubench", "guess": "τ-bench (Tau-Bench)", "match": "benchmark", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "txbench_pp", "guess": "BixBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "swepolybench", "guess": "SWE-bench Multilingual", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "tulu_human_eval", "guess": "BIG-bench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "truthfulqa_mc", "guess": "TruthfulQA", "match": "source", "error": null, "grader": "claude-haiku-5-5"}
+{"run": "know-or-gpt6luna", "benchmark": "vl_rewardbench", "guess": "MM-RewardBench", "match": "no", "error": null, "grader": "claude-haiku-5-5"}
