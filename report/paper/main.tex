@@ -74,6 +74,7 @@ Anyone deploying an AI system needs to know how it will perform on the tasks it 
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{figures/fig_data.pdf}
+  \vspace{-9pt}
   \caption{Data and method. (a) How each part of measurement-db is used. (b) Within a pair, half the items are revealed in a fixed order and half are scored at every budget. (c) A language model states the forecast $q_{si}$ without seeing outcomes, and revealed outcomes update the random effects.}
   \label{fig:data}
 \end{figure}
@@ -134,6 +135,7 @@ Our predictor combines a forecast that never sees an outcome with a hierarchical
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{figures/fig_main.pdf}
+  \vspace{-9pt}
   \caption{Our method stays below the Beta-binomial baseline at every budget, and most of the gap is there before any outcome is revealed. Three held-out proxies, 27 pairs. (a) Brier by budget. (b) Each pair's mean prediction minus its success rate, with bars spanning the middle half of the 27 pairs.}
   \label{fig:main}
 \end{figure}
@@ -292,6 +294,7 @@ Opus leads the other forecasters in ranking items and in judging benchmarks, any
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{figures/fig_analysis.pdf}
+  \vspace{-9pt}
   \caption{(a) Every forecaster's budget-0 Brier skill score (against always predicting 0.627, on 847 items) is lower on the 75 benchmarks Opus recognizes than on the 46 it does not. Rows without an effort are at low effort, ``analyse only'' is Opus told not to solve the item, and Appendix~\ref{app:judges} describes the models used only here. (b) Each calibration-set pair's forecast error, mean forecast minus success rate, against the mean error of the other pairs on its benchmark. Colors mark benchmarks the forecaster cited when explaining its errors, for illustration only.}
   \label{fig:analysis}
 \end{figure}
